@@ -1,0 +1,17 @@
+{
+    "versionCode":  610291157,
+    "versionName":  "610291157",
+    "apkUrl":  "https://github.com/sushiguo/feima/releases/latest/download/feima.apk",
+    "size":  88848093,
+    "sha256":  "89985ab6522e95276532e8ee60aad1ad1c549438c8daa546a72c531d40c2352e",
+    "changelog":  "应用内升级上线：关于页打开自动检查更新，前台服务断点续传下载（多镜像并行），四重校验后拉起安装。",
+    "publishedAt":  "2026-10-29 12:03:51",
+    "variants":  [
+                     {
+                         "abi":  "universal",
+                         "url":  "https://github.com/sushiguo/feima/releases/latest/download/feima.apk",
+                         "size":  88848093,
+                         "sha256":  "89985ab6522e95276532e8ee60aad1ad1c549438c8daa546a72c531d40c2352e"
+                     }
+                 ]
+}
